@@ -9,7 +9,7 @@
 [Rotazione(2)](https://lunabarreto.github.io/GIM/Esercizio_1A/rotazione_2)  
 [Rotazione(3)](https://lunabarreto.github.io/GIM/Esercizio_1A/rotazione_3)  
 [Spostamento(2)](https://lunabarreto.github.io/GIM/Esercizio_1A/spostamento_2)  
-[Spostamento(3)](https://lunabarreto.github.io/GIM/Esercizio_1A/spostamento_3)  
+[Spostamento(3)](https://lunabarreto.github.io/GIM/Esercizio_1A/spostamento_)  
 
 ## Esercizio 1B
 [Dittico](https://lunabarreto.github.io/GIM/Esercizio_1B/)

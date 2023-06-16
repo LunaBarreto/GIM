@@ -2,6 +2,8 @@
 ### Esercizi di Grafica in movimento 
 
 ## Esercizio 1A
+[Aperto / chuiso(2)](https://lunabarreto.github.io/GIM/Esercizio_1A/aperto_chiuso_2)  
+[Aperto / chuiso(3)](https://lunabarreto.github.io/GIM/Esercizio_1A/aperto_chiuso_3)
 
 ## Esercizio 2A
 

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="author" content="Luna Barreto" />
+	<title>Forma/Senso</title>
+	<style type="text/css">
+		html{
+			height:100%;
+		}
+		body{
+			background-color: rgb(235,235,235);
+		}
+		canvas{
+			position:absolute;
+			left:50%;
+			top:50%;
+			margin-left: -200px;
+			margin-top: -200px;
+		}
+	</style>
+</head>
+<body>
+	<script type="module">
+
+		import Sequencer from './js/sequencer.min.js';
+
+		Sequencer.make({
+			canvas       	 : document.querySelector("canvas"),
+			from         	 : "img/1000.jpg",
+			to           	 : "img/1174.jpg",
+			playMode     	 : "auto",
+			loop         	 : "loop", 
+			interval     	 : 7,
+		})
+  <script>
+    function avviaImmagine() {
+      var immagine = document.getElementById("miaImmagine");
+      immagine.src = "nuova_immagine.jpg";
+    }
+
+</script>
+
+</body>
+</html>

@@ -13,7 +13,7 @@ function setup(){
 	velX = random(-4,4)
 	velY = random(-4,4)
 
-	background(150,200,50)
+	background(0)
 
 }
 
@@ -21,15 +21,14 @@ function draw(){
 	noStroke()
 	//fill(map(posX, 0,width,0,255), map (posY,0,width,0,255))
 	
-	fill (random(255),random(255),random(255))
-	ellipse (posX,posY,20)
+	fill (random(200,255),random(200,255),random(2))
+	ellipse (posX,posY,200)
 	
-	//creare lo spostamento delloggetto
+	//creare lo spostamento dell'oggetto
 	posX = posX + velX
 	posY = posY + velY
 
-	//Per farla rimbalzare
-
+	//Rimbalzo
 	posX = posX + velX
 	posY = posY + velY
 

@@ -18,7 +18,7 @@
 [Forma e senso](https://lunabarreto.github.io/GIM/Esercizio_2A/)
 
 ## Esercizio 2B
-[Movimento come forma, movimento come senso](https://lunabarreto.github.io/GIM/Esercizio_2B/)
+[Movimento come forma, movimento come senso](https://lunabarreto.github.io/GIM/Esercizio_2B/index_B.html)
 
 ## Esercizio 3
 [Pong](https://lunabarreto.github.io/GIM/Esercizio_3/2_Pong)  

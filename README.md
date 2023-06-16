@@ -18,12 +18,12 @@
 [Forma e senso](https://lunabarreto.github.io/GIM/Esercizio_2A/)
 
 ## Esercizio 2B
-[Movimento come forma, movimento come senso](https://lunabarreto.github.io/GIM/Esercizio_2B/)
+[Movimento come forma, movimento come senso](https://lunabarreto.github.io/GIM/Esercizio_2B/Composizione 1.mp4)
 
 ## Esercizio 3
-[Pong](https://lunabarreto.github.io/GIM/Esercizio_3/2_pong)  
+[Pong](https://lunabarreto.github.io/GIM/Esercizio_3/2_Pong)  
 [Pioggia](https://lunabarreto.github.io/GIM/Esercizio_3/3_pioggia)  
-[Neve](https://lunabarreto.github.io/GIM/Esercizio_3/4_Neve)  
+[Neve](https://lunabarreto.github.io/GIM/Esercizio_3/4_neve)  
 
 ## Esercizio 4
 [Orologio](https://lunabarreto.github.io/GIM/Esercizio_4/Orologio)  
